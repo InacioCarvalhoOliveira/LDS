@@ -1,4 +1,6 @@
-#Projeto Utilizando Ferramentas do SCRUM  
+#Projeto Utilizando Ferramentas do SCRUM 
+
+participantes : @LaurediGustavo, @alexandre-tvrs 
 
 Estrutura do Projeto:
 
@@ -6,4 +8,5 @@ Estrutura do Projeto:
     - IDE utilizada : Eclipse-jee;
     - Frameworks : JQuery,Bootstrap-4;
     - Banco de Dados : Oracle MYsql;
+    
     
