@@ -1,6 +1,6 @@
 #Projeto Utilizando Ferramentas do SCRUM 
 
-participantes : 
+participantes:
 
 Estrutura do Projeto:
 
