@@ -1,6 +1,7 @@
 #Projeto Utilizando Ferramentas do SCRUM 
 
 participantes:
+
 Estrutura do Projeto:
 
     - Algorítmo de Programação: Java-jsp;
