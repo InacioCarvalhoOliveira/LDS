@@ -11,7 +11,7 @@ Estrutura do Projeto:
 
     - Algorítmo de Programação: Java-jsp;
     - IDE utilizada : Eclipse-jee;
-    - Frameworks : JQuery,Bootstrap-4;
+    - Frameworks : JQuery, Bootstrap-4, SpringBoot;
     - Banco de Dados : Oracle MYsql;
     
     
